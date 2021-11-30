@@ -5,6 +5,7 @@
 .idea/**/shelf/
 .idea/**/workspace.xml
 .idea/**/vcs.xml
+.idea/*.xml
 
 # build directories:
 build/
